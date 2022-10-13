@@ -5,3 +5,5 @@ n=(n+2)/3
 answer=pow(n,2)
 print(answer)
 
+
+
